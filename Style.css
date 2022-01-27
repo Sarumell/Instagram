@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size:14px;
+}
+
+body{
+    width:100%;
+    height:100%;
+    background-color:rgb(243, 243, 243);
+    margin:0;
+    padding:0;
+    display: flex;
+    justify-content: center;
+}
+
+.instagram-wrapper{
+    Display:flex;
+    align-items: Center;
+    justify-content: Center;
+    margin-top: 50px;
+
+}
+
+.phone{
+    width: 11cm;
+    align-items:left;
+    justify-content: left;
+}
+
+.appstore{
+    width: 150px;
+    align-items: center;
+    justify-content: center;
+}
+
+.playstore{
+    display: inline-block;
+    width:150px;
+    align-items: center;
+    justify-content: center;
+}
+
+.Line-jump{
+    box-sizing: border-box;
+    display: inline-block;
+    margin-left: 120px;
+    background-size: 1px 20px;
+    padding-bottom: 10px;
+
+}
+ 
+
+p{
+  margin-left: 110px;
+}
+
+.cadastro{
+    box-sizing: border-box;
+    align-items: center;
+}
+.facebook-login{
+    box-sizing: border-box;
+    margin-left:55px;
+    width: 14px;
+
+}
+
+.fsenha{
+   margin-left: 70px;
+   padding: px
+}
+
+Input {
+    Display:flex;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    Margin: 6px;
+    width: 250px;
+    height: 38px;
+}
+
+.botao{
+    Display:center;
+    border:0px;
+    background-color:#0095f6;
+    color:white;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 250px;
+    height: 30px;
+    margin: 9px;
+}
+    
+
+.group{
+    display:flex;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color:rgb(255, 255, 255);
+    align-items: center;
+    width: 100%;
+    padding:1.3rem 0;
+    border: 1px solid lightgray;
+    margin-bottom: 10px;
+}
+.instagram-logo{
+    Margin-top: 10px;
+    Margin-bottom: 24px;
+    width: 175px;
+    height: 51px ;
+}
+
+#apps{
+margin:20px;
+}
+
+a{
+    align-items: center;
+}
